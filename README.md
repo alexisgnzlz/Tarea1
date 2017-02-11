@@ -1,2 +1,2 @@
 # Tarea1
-OperatingSystemsHomwork
+OperatingSystemsHomework
